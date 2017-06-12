@@ -2,8 +2,9 @@
 Flight Analytics with sparklyR
 Created by Michiaki Ariga (aki@cloudera.com)
 
-<b>Status</b>: Demo Ready<br>
-<b>Use Case</b>: Analytics of US flights and building a predictive model
+## Status: Demo Ready
+
+## Use Case: Analytics of US flights and building a predictive model
 
 <b>Steps</b>:<br>
 1. Open a CDSW terminal and run setup.sh<br>
