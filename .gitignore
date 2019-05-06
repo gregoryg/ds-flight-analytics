@@ -31,3 +31,8 @@ vignettes/*.pdf
 # Temporary files created by R markdown
 *.utf8.md
 *.knit.md
+# Jupyter idiocy
+.ipynb_checkpoints/
+derby.log
+logs/
+spark-warehouse/
